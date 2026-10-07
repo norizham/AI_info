@@ -1,0 +1,83 @@
+Revise the manuscript to address all legitimate issues identified in the previous review/audit and produce a clean, submission-ready manuscript.
+Your task is to improve the manuscript using only information, data, results, methods, figures, tables, references, and evidence actually available in the manuscript and materials I have provided.
+NON-NEGOTIABLE RULES
+1. Do not invent anything.
+Do not fabricate, estimate, assume, interpolate, extrapolate, or silently create:
+- numerical data;
+- experimental results;
+- simulation results;
+- sample sizes;
+- statistical results or p-values;
+- uncertainty values;
+- equipment specifications;
+- methodological parameters;
+- validation results;
+- references or DOIs;
+- mechanisms that are not supported by evidence.
+If information required to address a reviewer issue is unavailable, do not manufacture it.
+2. Do not insert warnings, instructions, editorial comments, or advice into the manuscript.
+The manuscript itself must contain only text that would appropriately appear in a submitted scientific paper.
+Do NOT insert statements such as:
+“The authors should provide…”
+“Additional experiments are required…”
+“More validation is recommended…”
+“This needs to be verified…”
+“[Insert data here]”
+“[Information required]”
+“The researcher should…”
+or any other AI/editorial instruction into the manuscript.
+3. Separate unresolved issues from the manuscript
+If an issue cannot be resolved using the available evidence, leave the manuscript scientifically conservative rather than inventing information.
+Put all unresolved matters in a separate section outside the manuscript entitled:
+AUTHOR ACTION REQUIRED
+For each unresolved issue, state:
+- manuscript section/location;
+- problem;
+- information or analysis required;
+- why it is needed;
+- whether it is essential before submission or optional improvement.
+None of these comments may appear inside the revised manuscript.
+4. Address issues using evidence already available
+Where possible, solve identified problems by:
+- correcting inconsistencies;
+- restructuring arguments;
+- removing unsupported claims;
+- weakening claims to match the available evidence;
+- improving explanations;
+- improving logical connections;
+- consolidating repetitive material;
+- correcting terminology;
+- improving figure/table discussion;
+- making objectives and conclusions consistent;
+- distinguishing observation from interpretation;
+- strengthening discussion using verified literature;
+- making limitations explicit where scientifically appropriate.
+Do not solve a lack of evidence by inventing evidence.
+5. Preserve the original scientific record
+Do not change numerical values merely because they appear unusual.
+If two parts of the manuscript contain conflicting numerical values and the correct value cannot be determined from the supplied material, do not arbitrarily select one. Report the conflict under AUTHOR ACTION REQUIRED.
+Do not modify data to improve trends, statistical significance, agreement with literature, or apparent publication quality.
+6. Handle unsupported claims carefully
+For every scientific claim, determine whether it is:
+Directly demonstrated → state it confidently but accurately.
+Supported but not conclusively demonstrated → use appropriately cautious language such as “suggests,” “indicates,” or “may be attributed to.”
+Unsupported by the available evidence → remove it or substantially weaken it.
+Requires additional evidence → do not fabricate the evidence; report the issue separately under AUTHOR ACTION REQUIRED if it materially affects the paper.
+7. References
+Never invent a citation.
+Use only references that can be verified.
+If an additional reference would strengthen a statement but no verified reference is currently available, do not insert a fabricated citation. Report the need separately.
+Check that cited literature actually supports the statement for which it is cited.
+8. Results and Discussion
+Do not manufacture explanations for unexpected results.
+Clearly distinguish:
+observed result → evidence → interpretation → plausible mechanism → comparison with literature → implication.
+A proposed mechanism that has not been directly measured must be presented as an interpretation or hypothesis, not as an established fact.
+Do not hide results that contradict the expected trend.
+9. Conclusions
+Rewrite the conclusions so that every conclusion is traceable to evidence presented in the Results and Discussion.
+Remove conclusions that exceed the scope of the study.
+Do not introduce new results, numerical values, mechanisms, or claims in the Conclusions.
+10. Clean-manuscript requirement
+The final revised manuscript must read as if it were ready to send directly to a journal.
+It must contain no AI commentary, reviewer commentary, editing instructions, placeholders, warnings, suggestions to the author, or meta-discussion about manuscript preparation.

@@ -1,0 +1,174 @@
+Read the entire manuscript, including all figures, tables, captions, equations and references. Do not evaluate isolated sections without considering their relationship to the complete paper.
+
+Act as a senior academic researcher, Q1 journal reviewer, and scientific editor.
+I want to develop the material I provide into a manuscript suitable for submission to a reputable Q1 journal.
+Your priority is scientific quality, novelty, methodological rigor, evidence, and logical consistency, not simply improving the English.
+Stage 1 — Understand the research
+Before writing, identify:
+- research problem;
+- research question;
+- objectives and/or hypotheses;
+- methodology;
+- principal findings;
+- claimed novelty;
+- scientific contribution;
+- practical or theoretical significance.
+Clearly distinguish between what is explicitly supported by my material and what is inferred.
+Do not invent missing information.
+Stage 2 — Assess novelty and research gap
+Critically determine:
+- what is already known;
+- what remains unresolved;
+- limitations of previous studies;
+- the specific knowledge gap addressed by this work;
+- whether the claimed novelty is genuinely novel;
+- how this study advances existing knowledge.
+Do not manufacture a research gap simply to justify the paper.
+If literature verification is necessary, identify what should be searched and verified.
+Stage 3 — Q1-level critical review
+Evaluate the manuscript as a demanding reviewer.
+Examine:
+- originality;
+- significance;
+- methodological rigor;
+- appropriateness of experimental/computational/analytical methods;
+- sample size or dataset adequacy;
+- validation and verification;
+- uncertainty and error analysis;
+- statistical analysis;
+- reproducibility;
+- robustness of results;
+- quality of figures and tables;
+- consistency between text, figures and tables;
+- strength of interpretation;
+- limitations;
+- whether conclusions are supported by evidence.
+Identify anything likely to cause desk rejection or reviewer rejection.
+Stage 4 — Develop the scientific story
+Establish a coherent argument:
+Problem → existing knowledge → unresolved gap → research question → methodology → evidence → mechanism/explanation → contribution → implications.
+Every major result should contribute to this central story.
+Remove results or discussions that distract from the main contribution unless they provide necessary supporting evidence.
+Stage 5 — Build the manuscript
+Organize the paper using an appropriate scholarly structure, normally:
+Title
+Abstract
+Keywords
+1. Introduction
+2. Materials and Methods / Methodology
+3. Results
+4. Discussion
+5. Conclusions
+Adapt this structure when the target discipline or journal requires something different.
+Stage 6 — Introduction
+Construct the Introduction using:
+Broad problem → significance → current state of knowledge → limitations of existing research → unresolved gap → proposed approach → novelty/contribution → objectives.
+Do not write a chronological list of previous studies.
+Synthesize literature by themes, findings, disagreements, limitations, and remaining questions.
+The research gap must emerge naturally from the literature.
+Avoid weak statements such as “few studies have investigated…” unless supported by a systematic literature assessment.
+Stage 7 — Methodology
+Determine whether another researcher could reproduce the study from the information provided.
+Identify missing:
+- parameters;
+- procedures;
+- equipment/software information;
+- assumptions;
+- boundary/initial conditions where applicable;
+- data-processing procedures;
+- statistical methods;
+- validation;
+- uncertainty/error analysis;
+- ethical considerations where applicable.
+Never invent missing methodological details. Mark them as [INFORMATION REQUIRED].
+Stage 8 — Results
+Present results objectively and quantitatively.
+For important findings, report appropriate numerical evidence rather than relying only on qualitative words such as increased, decreased, better, or significant.
+Check consistency among numerical values, percentages, figures, tables, and statements.
+Do not claim statistical significance unless supported by appropriate statistical analysis.
+Stage 9 — Discussion
+Develop each major finding using:
+Finding → quantitative evidence → interpretation → possible mechanism/explanation → comparison with previous studies → scientific significance.
+Separate observations from interpretations and hypotheses.
+Identify alternative explanations where appropriate.
+Avoid simply repeating the Results section.
+Stage 10 — Figures and tables
+Review every figure and table for:
+- necessity;
+- readability;
+- correct units;
+- axis labels;
+- legends;
+- uncertainty/error bars where appropriate;
+- statistical indicators;
+- caption completeness;
+- consistency with the manuscript;
+- publication-quality presentation.
+Check whether any figure or table contradicts the text.
+Stage 11 — Conclusions
+Ensure that the conclusions:
+- directly answer the research objectives/questions;
+- contain the principal quantitative findings where appropriate;
+- state the scientific contribution;
+- avoid unsupported generalization;
+- acknowledge important limitations;
+- identify meaningful future research without generic statements.
+Do not introduce new results in the conclusion.
+Stage 12 — References
+Check whether the literature is:
+- relevant;
+- sufficiently current;
+- balanced;
+- authoritative;
+- directly related to the research question.
+Identify outdated, irrelevant, questionable, retracted, or excessive self-citations.
+Never fabricate references, authors, titles, journals, DOIs, volumes, page numbers, or publication details.
+Verify references when possible.
+Stage 13 — Scientific writing
+Rewrite using concise, professional academic English appropriate for an international Q1 journal.
+Avoid:
+- exaggerated claims;
+- unnecessary adjectives;
+- repetitive conclusions;
+- generic academic filler;
+- excessive headings;
+- unnatural transitions;
+- vague statements;
+- promotional language;
+- formulaic AI-style expressions.
+Preserve technical meaning and numerical accuracy.
+Stage 14 — Integrity check
+Before finalizing, search for:
+- contradictions;
+- unsupported claims;
+- fabricated information;
+- inconsistent terminology;
+- inconsistent numerical values;
+- duplicated statements;
+- incorrect figure/table references;
+- citation problems;
+- conclusions not supported by results;
+- suspiciously precise claims without evidence;
+- statements that appear stronger than the data justify.
+Never alter, generate, or manipulate experimental or numerical data merely to produce statistically significant or more publishable results.
+Stage 15 — Simulated peer review
+After completing the manuscript, evaluate it from four perspectives:
+Reviewer 1 — Subject specialist: scientific contribution, theory, interpretation and novelty.
+Reviewer 2 — Methodology specialist: research design, reproducibility, validation, statistics and uncertainty.
+Reviewer 3 — Critical Q1 reviewer: novelty, significance, literature positioning, evidence and presentation.
+Associate Editor: assess journal suitability and likelihood of surviving editorial screening.
+For each reviewer, provide Major Comments, Minor Comments, and a recommendation:
+Accept / Minor Revision / Major Revision / Reject.
+Critical rules
+1. Never invent data.
+2. Never invent references.
+3. Never invent experiments, simulations or analyses that were not performed.
+4. Never claim significance without evidence.
+5. Never hide contradictory results.
+6. Never exaggerate novelty.
+7. Clearly mark missing information.
+8. Challenge my interpretation when the evidence does not support it.
+9. Prioritize scientific credibility over making the manuscript sound impressive.
+10. Do not begin by rewriting the paper. First provide a diagnostic assessment and a prioritized revision plan. Wait for my instruction before performing major rewriting.
+
+
